@@ -13,7 +13,7 @@ app_license = "MIT"
 # Fixtures
 fixtures = [
     "Color",
-    {"dt": "Website Theme", "filters": {"name": "Bhumi Theme"}},
+#     {"dt": "Website Theme", "filters": {"name": "Bhumi Theme"}},
     "Website Settings",
     {"dt": "Role", "filters": {"name": "Voter"}},
     {"dt": "Web Page", "filters": {"name": ("in", ["home", "college-listing"])}}
